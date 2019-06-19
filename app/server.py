@@ -8,7 +8,7 @@ from fastai.vision import *
 import base64
 
 model_file_url = 'https://drive.google.com/uc?export=download&id=1CDUmJpxmPYWzPOoUTcMJP30CuI4kl3lW'
-model_file_name = 'model'
+model_file_name = 'stage-2'
 classes = ['Q7','Q5','Q3','Q2']
 path = Path(__file__).parent
 
